@@ -1,0 +1,98 @@
+{
+  "Boston": {
+    "indoor": [
+      "Museum of Fine Arts",
+      "New England Aquarium",
+      "Isabella Stewart Gardner Museum"
+    ],
+    "outdoor": [
+      "Freedom Trail",
+      "Boston Common",
+      "Charles River Esplanade"
+    ]
+  },
+  "New York": {
+    "indoor": [
+      "Metropolitan Museum of Art",
+      "American Museum of Natural History",
+      "Grand Central Terminal"
+    ],
+    "outdoor": [
+      "Central Park",
+      "Brooklyn Bridge",
+      "High Line"
+    ]
+  },
+  "Miami": {
+    "indoor": [
+      "Perez Art Museum Miami",
+      "Frost Science Museum",
+      "Vizcaya Museum and Gardens"
+    ],
+    "outdoor": [
+      "South Beach",
+      "Wynwood Walls",
+      "Bayfront Park"
+    ]
+  },
+  "Chicago": {
+    "indoor": [
+      "Art Institute of Chicago",
+      "Field Museum",
+      "Chicago Cultural Center"
+    ],
+    "outdoor": [
+      "Millennium Park",
+      "Chicago Riverwalk",
+      "Lincoln Park"
+    ]
+  },
+  "Washington DC": {
+    "indoor": [
+      "National Gallery of Art",
+      "Smithsonian National Air and Space Museum",
+      "Library of Congress"
+    ],
+    "outdoor": [
+      "National Mall",
+      "Tidal Basin",
+      "Georgetown Waterfront"
+    ]
+  },
+  "San Francisco": {
+    "indoor": [
+      "Exploratorium",
+      "San Francisco Museum of Modern Art",
+      "California Academy of Sciences"
+    ],
+    "outdoor": [
+      "Golden Gate Park",
+      "Ferry Building waterfront",
+      "Lands End Trail"
+    ]
+  },
+  "Seattle": {
+    "indoor": [
+      "Museum of Pop Culture",
+      "Seattle Art Museum",
+      "Chihuly Garden and Glass"
+    ],
+    "outdoor": [
+      "Pike Place Market",
+      "Discovery Park",
+      "Kerry Park"
+    ]
+  },
+  "Los Angeles": {
+    "indoor": [
+      "The Getty Center",
+      "The Broad",
+      "Griffith Observatory exhibits"
+    ],
+    "outdoor": [
+      "Griffith Park",
+      "Santa Monica Pier",
+      "Venice Beach"
+    ]
+  }
+}
